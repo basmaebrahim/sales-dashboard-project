@@ -56,7 +56,7 @@ This project provides dynamic insights into sales trends, top-performing regions
 
 ## 📣 LinkedIn Project Post
 
-➡️ [Insert your LinkedIn post link here] *(after publishing)*
+➡️ (https://www.linkedin.com/feed/update/urn:li:activity:7342979106885591040/)
 
 ---
 
@@ -64,8 +64,8 @@ This project provides dynamic insights into sales trends, top-performing regions
 
 For feedback or freelance collaboration, feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7342979106885591040/))
+-📧  engbasma221@gmail.com
 
 ---
 
