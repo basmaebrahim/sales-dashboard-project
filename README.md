@@ -64,7 +64,8 @@ This project provides dynamic insights into sales trends, top-performing regions
 
 For feedback or freelance collaboration, feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7342979106885591040/))
+- [LinkedIn](https://www.linkedin.com/in/basma-ebrahim-45b535204/))
+- 
 -📧  engbasma221@gmail.com
 
 ---
